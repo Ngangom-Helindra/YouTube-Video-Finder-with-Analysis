@@ -1,0 +1,18 @@
+# Ignore secret files with API keys
+secrete.py
+*.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environment folders
+venv/
+env/
+
+# Other files to ignore
+*.log
