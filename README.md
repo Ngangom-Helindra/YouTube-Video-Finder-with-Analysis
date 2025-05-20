@@ -4,10 +4,10 @@ This project is part of my **AI Automation Internship Assignment**. It automatic
 
 ## Features
 
-- 🔍 Search YouTube using the YouTube Data API v3.
-- 📋 Collect video titles, channel names, and URLs.
-- 🧠 Use **GPT-2** to choose the best video title based on relevance.
-- ✅ Uses `.gitignore` to safely exclude secret API keys and other sensitive files.
+-  Search YouTube using the YouTube Data API v3.
+-  Collect video titles, channel names, and URLs.
+-  Use GPT-2 to choose the best video title based on relevance.
+-  Uses `.gitignore` to safely exclude secret API keys and other sensitive files.
 
 ## Technologies Used
 
@@ -29,5 +29,4 @@ This project is part of my **AI Automation Internship Assignment**. It automatic
 
 Sensitive information like API keys are stored in `secrete.py` and **excluded from version control** using `.gitignore`.
 
-##  File Structure
 
